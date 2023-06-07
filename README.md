@@ -1,8 +1,10 @@
-## About me
+### About me
+
+My Name is Tomek !
 
 My goal for the next few years is to gain experience in web application programming.
 
-## Technologies
+### Technologies
 
 ![Screenshot](screenshots/html.png)
 ![Screenshot](screenshots/css.png)
@@ -14,11 +16,11 @@ My goal for the next few years is to gain experience in web application programm
 ![Screenshot](screenshots/react.png)  
 
 ![Screenshot](screenshots/node.png)
-![Screenshot](screenshots/Webpack.png)
+![Screenshot](screenshots/webpack.png)
 ![Screenshot](screenshots/figma.png)
 
 
-## Here are some projects:
+### Here are some projects:
 
 [Finance menager - Angular](https://tomaszposluszny.github.io/bus-ticket-Angular/)
 
