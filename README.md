@@ -17,13 +17,6 @@ My goal for the next few years is to gain experience in web application programm
 ![Screenshot](screenshots/Webpack.png)
 ![Screenshot](screenshots/figma.png)
 
-## Installation
-
-1. Clone the repository:
-2. Install the dependencies
-3. Start the development server:
-
-The application will be accessible at `http://localhost:4200`.
 
 ## Here are some projects:
 
