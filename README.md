@@ -1,23 +1,21 @@
-# Bus Ticket Reservation App - ticket booking app
+## About me
 
-Bus Ticket Reservation App is an Angular-based application that allows users to easily book bus tickets. The app enables users to browse available flights, search for connections based on various criteria such as departure location, destination, date, and number of passengers.
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.11.
+My goal for the next few years is to gain experience in web application programming.
 
 ## Technologies
 
-- Angular
-- Angular CLI
-- TypeScript
-- HTML
-- CSS
-- SCSS
-- RxJS
-- Node.js
-- npm
-- Git
-- RWD
-- BEM
+![Screenshot](screenshots/html.png)
+![Screenshot](screenshots/css.png)
+![Screenshot](screenshots/sass.png)  
+
+![Screenshot](screenshots/js.png)
+![Screenshot](screenshots/angular.png)
+![Screenshot](screenshots/typescript.png)
+![Screenshot](screenshots/react.png)  
+
+![Screenshot](screenshots/node.png)
+![Screenshot](screenshots/Webpack.png)
+![Screenshot](screenshots/figma.png)
 
 ## Installation
 
@@ -27,12 +25,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 The application will be accessible at `http://localhost:4200`.
 
-## Screenshots
+## Here are some projects:
 
-![Screenshot](screenshots/reservation.png)
-![Screenshot](screenshots/place.png)
+[Finance menager - Angular](https://tomaszposluszny.github.io/bus-ticket-Angular/)
+
+[Bus ticket - JS](https://tomaszposluszny.github.io/finance-manager-JS/)
 
 
-## Setup
-
-[Link to the page](https://tomaszposluszny.github.io/bus-ticket-Angular/)
