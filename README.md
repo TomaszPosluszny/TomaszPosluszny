@@ -2,7 +2,7 @@
 
 My Name is Tomek !
 
-My goal for the next few years is to gain experience in web application programming.
+Welcome to my repository! I'm a beginner programmer and this is my place to share my projects and progress in learning programming. I want to grow as a programmer and learn new technologies.
 
 ### 🔧 Technologies
  
