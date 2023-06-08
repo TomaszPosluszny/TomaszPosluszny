@@ -21,8 +21,8 @@ Welcome to my repository! I'm a beginner programmer and this is my place to shar
 
 ### ✔️ Here are some projects
 
-[Finance menager - Angular](https://tomaszposluszny.github.io/bus-ticket-Angular/)
+[Bus ticket - Angular](https://tomaszposluszny.github.io/bus-ticket-Angular/)
 
-[Bus ticket - JS](https://tomaszposluszny.github.io/finance-manager-JS/)
+[Finance menager - JS](https://tomaszposluszny.github.io/finance-manager-JS/)
 
 
