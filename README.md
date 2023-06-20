@@ -1,6 +1,6 @@
 ### 😀 About me
 
-My Name is Tomek !
+My name is Tomek !
 
 Welcome to my repository! I'm a beginner programmer and this is my place to share my projects and progress in learning programming. I want to grow as a programmer and learn new technologies.
 
